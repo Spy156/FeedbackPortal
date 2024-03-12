@@ -1,0 +1,458 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\22204\\OneDrive\\Desktop\\FeedbackPortal",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2024-03-10 19:19:19",
+            "filesum": 63,
+            "codesum": 10300,
+            "commentsum": 20,
+            "blanksum": 391,
+            "statistics": {
+                ".js": {
+                    "code": 261,
+                    "comment": 1,
+                    "blank": 40
+                },
+                ".json": {
+                    "code": 7852,
+                    "comment": 2,
+                    "blank": 134
+                },
+                ".log": {
+                    "code": 130,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".ts": {
+                    "code": 16,
+                    "comment": 2,
+                    "blank": 2
+                },
+                ".tsx": {
+                    "code": 1831,
+                    "comment": 0,
+                    "blank": 194
+                },
+                ".css": {
+                    "code": 125,
+                    "comment": 0,
+                    "blank": 11
+                },
+                ".mjs": {
+                    "code": 17,
+                    "comment": 2,
+                    "blank": 0
+                },
+                ".html": {
+                    "code": 13,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".md": {
+                    "code": 21,
+                    "comment": 4,
+                    "blank": 8
+                },
+                "": {
+                    "code": 16,
+                    "comment": 9,
+                    "blank": 2
+                },
+                ".cjs": {
+                    "code": 18,
+                    "comment": 0,
+                    "blank": 0
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "client\\.eslintrc.cjs"
+                },
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 9,
+                    "filename": "client\\.gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "client\\components.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "client\\index.html"
+                },
+                {
+                    "blank": 130,
+                    "code": 5983,
+                    "comment": 0,
+                    "filename": "client\\package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 53,
+                    "comment": 0,
+                    "filename": "client\\package.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "client\\postcss.config.js"
+                },
+                {
+                    "blank": 8,
+                    "code": 21,
+                    "comment": 4,
+                    "filename": "client\\README.md"
+                },
+                {
+                    "blank": 5,
+                    "code": 37,
+                    "comment": 0,
+                    "filename": "client\\src\\App.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "client\\src\\App.tsx"
+                },
+                {
+                    "filename": "client\\src\\assets\\am.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "client\\src\\assets\\cs.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "client\\src\\assets\\emts.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "client\\src\\assets\\fum.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "client\\src\\assets\\navlogo.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "client\\src\\assets\\template.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 58,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\datepicker.tsx"
+                },
+                {
+                    "blank": 6,
+                    "code": 45,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\Feedbackcard.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 34,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\mode-toggle.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\Navbar.module.css"
+                },
+                {
+                    "blank": 3,
+                    "code": 105,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\Navbar.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 56,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\querycard.tsx"
+                },
+                {
+                    "blank": 16,
+                    "code": 57,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\theme-provider.tsx"
+                },
+                {
+                    "blank": 9,
+                    "code": 49,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\ui\\accordion.tsx"
+                },
+                {
+                    "blank": 7,
+                    "code": 43,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\ui\\avatar.tsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 51,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\ui\\button.tsx"
+                },
+                {
+                    "blank": 8,
+                    "code": 58,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\ui\\calendar.tsx"
+                },
+                {
+                    "blank": 8,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\ui\\card.tsx"
+                },
+                {
+                    "blank": 31,
+                    "code": 231,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\ui\\carousel.tsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\ui\\checkbox.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\ui\\container.tsx"
+                },
+                {
+                    "blank": 19,
+                    "code": 181,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\ui\\dropdown-menu.tsx"
+                },
+                {
+                    "blank": 12,
+                    "code": 116,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\ui\\navigation-menu.tsx"
+                },
+                {
+                    "blank": 7,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\ui\\popover.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 31,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\ui\\ProfileButton.tsx"
+                },
+                {
+                    "blank": 16,
+                    "code": 144,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\ui\\select.tsx"
+                },
+                {
+                    "blank": 16,
+                    "code": 124,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\ui\\sheet.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\ui\\skeleton.tsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 84,
+                    "comment": 0,
+                    "filename": "client\\src\\index.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "client\\src\\lib\\utils.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "client\\src\\main.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "client\\src\\pages\\Feedback\\feedback.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 158,
+                    "comment": 0,
+                    "filename": "client\\src\\pages\\Home\\home.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 103,
+                    "comment": 0,
+                    "filename": "client\\src\\pages\\Query\\query.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "client\\src\\vite-env.d.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 76,
+                    "comment": 1,
+                    "filename": "client\\tailwind.config.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 2,
+                    "filename": "client\\tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "client\\tsconfig.node.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 1,
+                    "filename": "client\\vite.config.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 17,
+                    "comment": 2,
+                    "filename": "client\\vite.config.ts.timestamp-1708089714424-7a528af8f4bf1.mjs"
+                },
+                {
+                    "blank": 0,
+                    "code": 113,
+                    "comment": 0,
+                    "filename": "server\\combined.log"
+                },
+                {
+                    "blank": 0,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "server\\error.log"
+                },
+                {
+                    "blank": 5,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "server\\index.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "server\\middlewares\\validateToken.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1750,
+                    "comment": 0,
+                    "filename": "server\\package-lock.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "server\\package.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "server\\providers\\postgreProvider.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "server\\providers\\winstonProvider.js"
+                },
+                {
+                    "blank": 7,
+                    "code": 50,
+                    "comment": 0,
+                    "filename": "server\\routes\\login.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "server\\routes\\tickets\\closeTicket.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "server\\routes\\tickets\\createTicket.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "server\\routes\\tickets\\main.js"
+                }
+            ]
+        }
+    ]
+}

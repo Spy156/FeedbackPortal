@@ -4,6 +4,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 import Home from "./pages/Home/home.tsx";
 import Query from './pages/Query/query.tsx';
 import Feedback from './pages/Feedback/feedback.tsx';
+import QueryDetails from './pages/querydetails.tsx'
 import { Route, Routes } from 'react-router-dom';
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
           <Route path='/' element={<Home />}></Route>
           <Route path='/query' element={<Query />}></Route>
           <Route path='/feedback' element={<Feedback />}></Route>
+          <Route path='/query-details' element={<QueryDetails />}></Route>
         </Routes>
       </div>
   </ThemeProvider>
