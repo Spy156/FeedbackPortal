@@ -5,6 +5,8 @@ import Home from "./pages/Home/home.tsx";
 import Query from './pages/Query/query.tsx';
 import Feedback from './pages/Feedback/feedback.tsx';
 import QueryDetails from './pages/querydetails.tsx'
+import Analysis from './pages/analysis.tsx'
+import FacultyDashboard from './pages/faculty_dashboard.tsx'
 import { Route, Routes } from 'react-router-dom';
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
           <Route path='/query' element={<Query />}></Route>
           <Route path='/feedback' element={<Feedback />}></Route>
           <Route path='/query-details' element={<QueryDetails />}></Route>
+          <Route path='/profile/faculty_dashboard' element={<Analysis />}></Route>
+          <Route path='/profile/faculty_dashboard/analysis' element={<FacultyDashboard />}></Route>
         </Routes>
       </div>
   </ThemeProvider>
